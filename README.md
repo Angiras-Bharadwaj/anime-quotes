@@ -2,19 +2,31 @@ Anime Quote Generator
 The Anime Quote Generator is a simple web application that generates random anime quotes from various animes. This app is perfect for anime fans who want to discover new quotes and remember their favorite ones.
 
 Features
+
 Generates random anime quotes from various animes
+
 Provides the name of the anime and the character who said the quote
+
 Simple and easy-to-use interface
+
 Mobile responsive design
+
 Technologies Used
+
 HTML
+
 CSS
+
 JavaScript
+
 Anime-quotes API
+
 Installation
+
 No installation is required to use the Anime Quote Generator.
 
 Usage
+
 Clone or download the repository to your local machine.
 Open index.html in your web browser.
 Click on the "New" button to generate a new quote.
